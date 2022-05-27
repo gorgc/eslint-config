@@ -1,0 +1,6 @@
+{
+  "extends": "@tgarif",
+  "plugins": [
+    "tgarif"
+  ]
+}

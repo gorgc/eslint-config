@@ -1,0 +1,30 @@
+{
+  "name": "@tgarif/eslint-config-react",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Tengku Arif <arereeftengku@gmail.com> (https://github.com/gorgc/)",
+  "license": "MIT",
+  "homepage": "https://github.com/gorgc/eslint-config",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@tgarif/eslint-config-ts": "workspace:*",
+    "eslint-plugin-react": "^7.30.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "react": "^18.1.0",
+    "typescript": "^4.7.2"
+  }
+}
