@@ -84,9 +84,9 @@
     fastq "^1.6.0"
 
 "@tgarif/eslint-config-basic@workspace:*":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@tgarif/eslint-config-basic/-/eslint-config-basic-0.0.1.tgz#4228f8a0101cc07553875358dfac9b2c002d7711"
-  integrity sha512-HwTUhXxYCn1Qb+rpiXo5RffTagWLRyXS05LV+YEoQj0hzrBlgMT4htF8l0iIAoyh174qRb7sBgl4mlMQ2k6kaA==
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@tgarif/eslint-config-basic/-/eslint-config-basic-0.0.4.tgz#4779fa2c12def9f228d8244c415bdadd5f1bb3cc"
+  integrity sha512-rwcRNsMlFO9Dfw+vBh9yoFkWpVgezv9BlbAEn7rAglTTkrxrQCmCJh/1YLLZfncd/YNeQ2rQwPa/6f8AQjgUXQ==
   dependencies:
     eslint-plugin-eslint-comments "^3.2.0"
     eslint-plugin-html "^6.2.0"
@@ -127,9 +127,9 @@
     eslint-plugin-vue "^9.0.1"
 
 "@tgarif/eslint-config@*":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@tgarif/eslint-config/-/eslint-config-0.0.1.tgz#371bd19abee00b7b4a398cf11364e3be2a7f283c"
-  integrity sha512-X9hBvZJo1RKbkmct/m4FvlV36Rto1IAflljlCjLda66QVpnTF54TeRJdYGJTuL/C+V+IxvA+ITHd4dInAHk8FA==
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@tgarif/eslint-config/-/eslint-config-0.0.3.tgz#35353e273ec638a7e29d52e088876a074430b8db"
+  integrity sha512-LwpQU8pvche5PCQJIiWCWWyX8y8AaryRn+eAqoPBn85zpiKZ4uOo93OYZIircfyuXAYPLePDAl7ZMy8u/EYm1A==
   dependencies:
     "@tgarif/eslint-config-react" "workspace:*"
     "@tgarif/eslint-config-vue" "workspace:*"
