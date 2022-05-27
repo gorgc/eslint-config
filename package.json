@@ -1,6 +1,6 @@
 {
   "name": "@tgarif/eslint-config-monorepo",
-  "version": "0.0.2-beta.1",
+  "version": "0.0.5-beta.1",
   "private": true,
   "packageManager": "yarn@1.22.17",
   "author": "Tengku Arif <arereeftengku@gmail.com> (https://github.com/gorgc/)",
