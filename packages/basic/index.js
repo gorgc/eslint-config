@@ -329,7 +329,7 @@ module.exports = {
     'yml/no-empty-document': 'off',
 
     // tgarif
-    'tgarf/if-newline': 'error',
+    'tgarif/if-newline': 'error',
     'tgarif/import-dedupe': 'error',
     // 'tgarif/prefer-inline-type-import': 'error',
   },
