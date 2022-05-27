@@ -1,6 +1,6 @@
 {
   "name": "@tgarif/eslint-config-monorepo",
-  "version": "0.0.1",
+  "version": "0.0.2-beta.1",
   "private": true,
   "packageManager": "yarn@1.22.17",
   "author": "Tengku Arif <arereeftengku@gmail.com> (https://github.com/gorgc/)",
@@ -10,6 +10,10 @@
     "prepare": ""
   },
   "devDependencies": {
-    "@tgarif/eslint-config": "*"
+    "@tgarif/eslint-config": "*",
+    "bumpp": "^7.1.1",
+    "eslint": "^8.16.0",
+    "eslint-plugin-tgarif": "workspace:*",
+    "typescript": "^4.7.2"
   }
 }
