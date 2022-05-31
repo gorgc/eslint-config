@@ -1,6 +1,6 @@
 {
   "name": "@tgarif/eslint-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Arif's ESLint config",
   "author": "Tengku Arif <arereeftengku@gmail.com> (https://github.com/gorgc/)",
   "license": "MIT",
